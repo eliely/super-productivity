@@ -115,7 +115,7 @@
     "@angular-devkit/build-angular": "~12.2.7",
     "@angular-eslint/builder": "^12.2.0",
     "@angular-eslint/eslint-plugin": "^12.2.0",
-    "@angular-eslint/eslint-plugin-template": "^12.2.0",
+    "@angular-eslint/eslint-plugin-template": "^13.1.0",
     "@angular-eslint/schematics": "12.5.0",
     "@angular-eslint/template-parser": "^12.2.0",
     "@angular/animations": "^12.2.7",
